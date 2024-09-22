@@ -1,10 +1,6 @@
-
 Testing Revert
 adding commit 1
-<<<<<<< HEAD
 adding commit 2
 adding commit 3
-test revert
-=======
 adding commit 2
->>>>>>> parent of 4393b97 (Adding commit 3)
+Revert test
