@@ -2,9 +2,5 @@ Testing Revert
 adding commit 1
 adding commit 2
 adding commit 3
-<<<<<<< HEAD
 adding commit 2
 Revert test
-=======
-test revert
->>>>>>> parent of 3c424d5 (test)
